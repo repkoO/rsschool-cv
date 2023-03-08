@@ -23,10 +23,8 @@ git: https://github.com/repkoO/
 - React
 
 ## Education
-| N | Education | Year |
-| ------ | ------ | ------|
-| 1 | Baltic Govermnet Academy - Financial Management | 2009 - 2014 |
-| 2 | Sberbank front-end course |09.2022 - 03.2023 |
+- Baltic Govermnet Academy - Financial Management | 2009 - 2014 |
+- Sberbank front-end course |09.2022 - 03.2023 |
 
 ## Languages
 English level - B1 
