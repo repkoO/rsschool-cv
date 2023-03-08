@@ -9,6 +9,9 @@ e-mail: repkomail@gmail.com
 ```sh
 phone: +7-911-859-80-50
 ```
+```sh
+git: https://github.com/repkoO/
+```
 
 ## About me
 >I'm 30 years old. Live in Kaliningrad. I'm working in rent business about 7 years and try to change my job. Think that the front-end is the best way to start a career in IT. Before I've ended course in Sberbank and want to imrove my skills and experience in rolling scope schools. Hobbies: music, films, sport.
