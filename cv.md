@@ -16,15 +16,15 @@ git: https://github.com/repkoO/
 ## About me
 >I'm 30 years old. Live in Kaliningrad. I'm working in rent business about 7 years and try to change my job. Think that the front-end is the best way to start a career in IT. Before I've ended course in Sberbank and want to imrove my skills and experience in rolling scope schools. Hobbies: music, films, sport.
 
+## Education
+- Baltic Govermnet Academy - Financial Management | 2009 - 2014 |
+- Sberbank front-end course |09.2022 - 03.2023 |
+
 ## Skills
 - HTML
 - CSS
 - Version Control
 - React
-
-## Education
-- Baltic Govermnet Academy - Financial Management | 2009 - 2014 |
-- Sberbank front-end course |09.2022 - 03.2023 |
 
 ## Languages
 English level - B1 
